@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Impostazioni</string>
+    <string name="download">Scarica</string>
+    <string name="instertlink">Inserisci un link di Youtube</string>
+    <string name="error">C\'è un errore</string>
+    <string name="urlnovalid">L\'URL non è valido</string>
+    <string name="close">Chiudi</string>
+    <string name="videotitle">"Titolo del video: "</string>
+    <string name="attention">Attenzione!</string>
+    <string name="lenght">"Durata: "</string>
+    <string name="details">Dettagli</string>
+    <string name="downloadinprogress">Download in corso</string>
+    <string name="downloadcompleted">Download completato</string>
+    <string name="path">"Percorso di download: "</string>
+    <string name="videodaconv">Questo video non è stato mai convertito. Usa il browser per completare il download.</string>
+    <string name="open">Apri</string>
+    <string name="title_activity_list">Lista download</string>
+    <string name="listempty">La lista è vuota</string>
+    <string-array name="listonclick">
+        <item>Copia URL</item>
+        <item>Apri su Youtube</item>
+        <item>Ascolta</item>
+        <item>Riscarica</item>
+        <item>Elimina</item>
+    </string-array>
+    <string name="listen">Ascolta</string>
+    <string name="openonyoutube">Apri su Youtube</string>
+    <string name="redownload">Riscarica</string>
+    <string name="choose">Scegli</string>
+    <string name="copyurl">Copia URL</string>
+    <string name="copied">Copiato negli appunti</string>
+    <string name="delete">Elimina</string>
+    <string name="touchdown">"Premi scarica per scaricare: "</string>
+    <string name="filenotexist">Questo file non esiste.</string>
+    <string name="no">No</string>
+    <string name="yes">Si</string>
+    <string name="wantdeletefile">Vuoi eliminare anche il file?</string>
+    <string name="ok">Ok</string>
+    <string name="filedeleted">File eliminato con successo.</string>
+    <string name="downloadfalied">Il download è fallito</string>
+    <string name="touchtoredown">"Tocca per riscaricare: "</string>
+    <string name="press">Premi</string>
+    <string name="deletealllist">Vuoi eliminare tutta la lista?</string>
+    <string name="listdeleted">Lista svuotata</string>
+    <string name="wait">Attendi…</string>
+    <string name="loading">Caricamento in corso…</string>
+    <string name="nointernet">Nessuna connessione internet</string>
+    <string name="onlyyt">Puoi scaricare solamente video di Youtube</string>
+    <string name="openweb">Sito web</string>
+    <string name="or">OPPURE</string>
+    <string name="sharethevideoonapp">Apri l\'app di Youtube e condividi il video con YoutubeFetch.</string>
+    <string name="discoveronsite">Scopri come sul sito</string>
+    <string name="setdirectory">Imposta cartella download</string>
+    <string name="directorysetted">"Cartella impostata a: "</string>
+    <string name="dismiss">Annulla</string>
+    <string name="annulled">Annullato</string>
+    <string name="restore">Ripristina</string>
+    <string name="aboutad">Disabilita pubblicità</string>
+    <string name="show">Mostra</string>
+    <string name="thanks">Grazie!</string>
+    <string name="adnotloaded">Annuncio ancora non caricato</string>
+    <string name="aboutadcontent">Se vuoi rimuovere la pubblicità per 8 ore e supportare lo sviluppo dell\'app premi Mostra e tocca il banner che compare. Grazie per il supporto! Al riavvio dell\'app gli annunci scompariranno.</string>
+    <string name="newupdate">Nuovo aggiornamento disponibile!</string>
+    <string name="newupdatecontent">Scarica immediatamete il nuovo aggiornamento di YoutubeFetch!</string>
+    <string name="update">Aggiorna</string>
+    <string name="promocode">Codice promozionale</string>
+    <string name="promocodecontent">Se hai un codice promozionale lo puoi inserire qua. Se ne vuoi uno puoi contattarmi nel mio sito.</string>
+    <string name="confirm">Conferma</string>
+    <string name="servererror">Errore nel server</string>
+    <string name="codenotex">Il codice non esiste</string>
+    <string name="codevalid">Il codice è valido. Ora puoi usare YoutubeFetch senza pubblicità! (riavvia l\'app)</string>
+    <string name="codeused">Questo codice è già usato oppure non è valido</string>
+    <string name="addown">Vedrai solo 4 annunci all\'ora. Puoi disabilitarli nelle impostazioni di YoutubeFetch.</string>
+    <string name="promocodeused">Hai già usato un codice!</string>
+</resources>
